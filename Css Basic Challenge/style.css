@@ -1,0 +1,56 @@
+body{
+	background-color: navajowhite;
+	background-size: 50%;
+}
+
+
+
+
+h1{
+	font-size: 35px;
+	font-family: Comfortaa;
+	text-align: center;
+	
+}
+
+#cartao{
+
+
+	background-image: url("Imagens/backgorund.png");
+	background-size: cover;
+	width: 800px;
+    height: 350px;
+
+    font-family: Koulen;
+	font-size: 5px;
+	font-style: lowercase;
+	text-align: justify;
+
+	
+
+}
+
+.insta{
+	text-decoration: none;
+	list-style-image: url("Imagens/Insta.png");
+	font-size: 30px;
+
+
+}
+
+.twitter{
+	text-decoration: none;
+	list-style-image: url("Imagens/Twitter.png");
+	font-size: 30px;
+}
+
+.youtube{
+	text-decoration: none;
+	list-style-image: url("Imagens/Youtube.png");
+	font-size: 30px;
+}
+
+a:visited{
+	color: black;
+	
+}
